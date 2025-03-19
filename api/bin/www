@@ -1,0 +1,17 @@
+const app = require("../app");
+
+const port = process.env.PORT || 3000;
+
+app.listen(port, () => {
+console.log(`
+ #####                       #######
+#     #   ##   #####  ###### #       #       ####  #    #
+#        #  #  #    # #      #       #      #    # #    #
+#       #    # #    # #####  #####   #      #    # #    #
+#       ###### #####  #      #       #      #    # # ## #
+#     # #    # #   #  #      #       #      #    # ##  ##
+ #####  #    # #    # ###### #       ######  ####  #    #
+`);
+  console.log("Backend server - v1.0.0\n")
+  console.log(`Server is running on port ${port}`);
+});

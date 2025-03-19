@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Pain & Fever",
+    "description": "Medications for relieving pain and reducing fever, such as ibuprofen, acetaminophen, and aspirin."
+  },
+  {
+    "name": "Cold & Flu",
+    "description": "Products for treating cold and flu symptoms, including decongestants, cough suppressants, and sore throat lozenges."
+  },
+  {
+    "name": "Allergy & Sinus",
+    "description": "Medications for allergies and sinus problems, such as antihistamines, nasal sprays, and decongestants."
+  },
+  {
+    "name": "Digestive Health",
+    "description": "Products for treating digestive issues, including antacids, laxatives, anti-diarrheals, and probiotics."
+  },
+  {
+    "name": "First Aid",
+    "description": "Supplies for treating minor injuries, such as bandages, antiseptic wipes, gauze, and pain relief creams."
+  },
+  {
+    "name": "Vitamins & Supplements",
+    "description": "Vitamins, minerals, and other dietary supplements."
+  },
+  {
+    "name": "Personal Care",
+    "description": "Items for personal hygiene and grooming, such as shampoo, soap, toothpaste, and skincare products."
+  },
+  {
+    "name": "Baby Care",
+    "description": "Products for babies and infants, including diapers, formula, baby food, and baby wipes."
+  },
+  {
+    "name": "Eye & Ear Care",
+    "description": "Products for eye and ear health, such as eye drops, ear drops, and contact lens solutions."
+  },
+  {
+    "name": "Feminine Care",
+    "description": "Products related to feminine hygiene and health."
+  },
+  {
+    "name": "Sexual Health",
+    "description": "Products related to sexual health and wellness."
+  },
+  {
+    "name": "Home Health Care",
+    "description": "Medical supplies and equipment for home use, such as blood pressure monitors, thermometers, and mobility aids."
+  },
+  {
+    "name": "Others",
+    "description": "Any other items not falling into the above categories."
+  }
+]
